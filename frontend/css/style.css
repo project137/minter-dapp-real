@@ -343,8 +343,9 @@ section {
 /* MEDIA QUERIES */
 @media (max-width: 1199px) {
   .wallet-btn {
-    margin-bottom: 100px;
+    bottom: 10px;
     font-size: 14px;
+    max-height: 80px;
   }
 
   .dot-spin {
@@ -359,11 +360,12 @@ section {
   .menu {
     gap: 1rem;
   }
-  /*.wallet-btn {
-    margin-left: 0;
-    padding: 0.5rem 1rem;
-    max-width: 8rem;
-  }*/
+
+  .wallet-btn {
+    font-size: 10px;
+    max-height: 80px;
+  }
+  
   .not-connected {
     /*background-color: var(--bg-color-transparent);*/
     border-radius: 5px;
