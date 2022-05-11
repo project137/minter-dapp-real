@@ -125,7 +125,7 @@ header .container {
 }
 
 .wallet-btn {
-  /*border-radius: 5rem;*/
+  border-radius: 5rem;
   border-color: #484444;
   color: white;
 }
