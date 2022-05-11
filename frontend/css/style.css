@@ -345,6 +345,7 @@ section {
   .wallet-btn {
     bottom: 30px;
     font-size: 14px;
+    max-height: 60px;
   }
 
   /*.dot-spin {
@@ -363,6 +364,7 @@ section {
   .wallet-btn {
     bottom: 10px;
     font-size: 12px;
+    max-height: 40px;
   }
   
   .not-connected {
@@ -407,6 +409,7 @@ section {
   .wallet-btn {
     bottom: 10px;
     font-size: 10px;
+    max-height: 10px;
   }
 }
 
