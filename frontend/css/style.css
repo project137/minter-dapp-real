@@ -126,8 +126,7 @@ header .container {
 
 .wallet-btn {
   /*border-radius: 5rem;*/
-  /*border-color: none;*/
-  border: none;
+  border-color: #484444;
   color: white;
 }
 
@@ -349,11 +348,11 @@ section {
     max-height: 60px;
   }
 
-  .dot-spin {
+  /*.dot-spin {
     top: 28%;
     left: 28%;
     transform: translate(-30%, -30%) scale(3);
-  }
+  }*/
 }
 
 
@@ -363,8 +362,7 @@ section {
   }
 
   .wallet-btn {
-    bottom: 35px;
-    left: 10px;
+    bottom: 10px;
     font-size: 12px;
     max-height: 40px;
   }
