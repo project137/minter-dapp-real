@@ -362,7 +362,7 @@ section {
   }
 
   .wallet-btn {
-    left: 50px;
+    left: 20px;
     font-size: 12px;
     max-height: 40px;
   }
@@ -409,7 +409,7 @@ section {
   .wallet-btn {
     bottom: 5px;
     font-size: 10px;
-    max-height: 20px;
+    max-height: 10px;
   }
 }
 
