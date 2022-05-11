@@ -126,7 +126,7 @@ header .container {
 
 .wallet-btn {
   /*border-radius: 5rem;*/
-  border-color: white;
+  border-color: none;
   color: white;
 }
 
@@ -408,7 +408,7 @@ section {
 
 @media (max-width: 575px) {
   .wallet-btn {
-    bottom: 5px;
+    bottom: 10px;
     font-size: 10px;
     max-height: 10px;
   }
