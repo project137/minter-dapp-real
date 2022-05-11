@@ -345,7 +345,7 @@ section {
   .wallet-btn {
     bottom: 30px;
     font-size: 14px;
-    max-height: 80px;
+    max-height: 60px;
   }
 
   .dot-spin {
@@ -362,7 +362,9 @@ section {
   }
 
   .wallet-btn {
-    font-size: 10px;
+    left: 50px;
+    font-size: 12px;
+    max-height: 40px;
   }
   
   .not-connected {
@@ -400,6 +402,14 @@ section {
   .mint-qty .btn {
     padding: 1rem;
     font-size: 13px;
+  }
+}
+
+@media (max-width: 575px) {
+  .wallet-btn {
+    bottom: 5px;
+    font-size: 10px;
+    max-height: 20px;
   }
 }
 
