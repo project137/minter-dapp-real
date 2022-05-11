@@ -1074,7 +1074,8 @@
   }
 
   .u-section-8 .u-list-1 {
-    margin-bottom: -346px;
+    margin-top: -320px;
+    margin-bottom: 0px;
   }
 
   .u-section-8 .u-repeater-1 {
@@ -1084,11 +1085,11 @@
 
 @media (max-width: 575px) {
   .u-section-8 .u-sheet-1 {
-    min-height: 1457px;
+    min-height: 1100px;
   }
 
   .u-section-8 .u-list-1 {
-    margin-top: -300px;
+    margin-top: -320px;
     margin-bottom: 0px;
   }
 }
