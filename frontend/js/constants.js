@@ -1,4 +1,4 @@
-const contractAddress = "0xb4c85726255A12eA97cd77a156068ff5dD76C7de"; //Replace with your own contract address
+const contractAddress = "0x732dF06244385b3403DDa86dd892D8498961734e"; //Replace with your own contract address
 const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Riki The Tiger Minting Page";
@@ -13,13 +13,13 @@ const p_presale_coming_soon = "Sale will start on May 11th, at 20:00 (GMT+7)";
 const p_presale_mint_not_whitelisted = "";
 const p_presale_mint_whitelisted = "You're on the whitelist for the pre-sale!";
 const p_presale_mint_already_minted = "You've already claimed your whitelist mint. Thank you! ";
-const p_public_mint = "Now you can mint the NFT!";
+const p_public_mint = "Please choose Medium or High gas fee to succeed the minting!";
 const button_presale_coming_soon = "Check Our Discord";
 const button_presale_mint_whitelisted = "Mint Your Special NFT";
 const button_presale_mint_not_whitelisted = "Check Our Discord";
 const button_presale_already_minted = "Join The Community";
 const button_public_mint = "Mint Your NFT";
-const mint_failed = "Minting failed. 😢 Please try again.";
+const mint_failed = "Minting failed. Please try again by editing the gas fee to Medium or High.";
 
 const abi = [
   {
