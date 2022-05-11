@@ -212,6 +212,10 @@
     width: 307px;
     margin-left: 0;
   }
+
+  .u-carousel {
+    display: none;
+  }
 }
 
 @media (max-width: 991px) {
@@ -250,6 +254,10 @@
     height: 233px;
     width: 233px;
   }
+
+  .u-carousel {
+    display: none;
+  }
 }
 
 @media (max-width: 767px) {
@@ -270,6 +278,10 @@
   .u-section-1 .u-layout-cell-3 {
     min-height: 531px;
   }
+
+  .u-carousel {
+    display: none;
+  }
 }
 
 @media (max-width: 575px) {
@@ -284,5 +296,9 @@
 
   .u-section-1 .u-layout-cell-3 {
     min-height: 334px;
+  }
+
+  .u-carousel {
+    display: none;
   }
 }
