@@ -125,9 +125,8 @@ header .container {
 }
 
 .wallet-btn {
-  /*border-radius: 5rem;*/
-  /*border-color: none;*/
-  border: none;
+  border-radius: 5rem;
+  border-color: #484444;
   color: white;
 }
 
@@ -344,7 +343,7 @@ section {
 /* MEDIA QUERIES */
 @media (max-width: 1199px) {
   .wallet-btn {
-    bottom: 10px;
+    bottom: 30px;
     font-size: 14px;
     max-height: 60px;
   }
@@ -363,8 +362,7 @@ section {
   }
 
   .wallet-btn {
-    bottom: 35px;
-    left: 10px;
+    bottom: 10px;
     font-size: 12px;
     max-height: 40px;
   }
