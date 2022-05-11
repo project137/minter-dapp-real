@@ -198,9 +198,9 @@
   }
 
   .u-section-1 .u-layout-wrap-1 {
-    width: 840px;
+    width: 940px;
     margin-top: -429px;
-    margin-right: calc(((100% - 1140px) / 2));
+    /*margin-right: calc(((100% - 1140px) / 2));*/
   }
 
   .u-section-1 .u-image-2 {
@@ -222,7 +222,7 @@
   }
 
   .u-section-1 .u-layout-wrap-1 {
-    width: 620px;
+    width: 720px;
     margin-top: -325px;
   }
 
@@ -255,7 +255,7 @@
   }
 
   .u-section-1 .u-layout-wrap-1 {
-    width: 440px;
+    width: 540px;
     margin-top: -767px;
   }
 
@@ -284,7 +284,7 @@
   }
 
   .u-section-1 .u-layout-wrap-1 {
-    width: 240px;
+    width: 340px;
     margin-top: -473px;
   }
 
